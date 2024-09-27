@@ -69,6 +69,7 @@ A headless, framework-agnostic and extendable rich text editor, based on [ProseM
 - [Text Diagram by Halo - Provides support for text drawing (Mermaid & PlantUML)](https://github.com/halo-sigs/plugin-text-diagram)
 - [fylepad - a notepad with powerful rich-text editing based on Nuxt3 and Tiptap.](https://github.com/imrofayel/fylepad) by [@imrofayel](https://github.com/imrofayel/)
 - [Maily](https://maily.to/) by [@arikchakma](https://github.com/arikchakma)
+- [AIEditor - a next-gen rich text editor for AI](https://github.com/aieditor-team/aieditor)
 
 ## Who’s using Tiptap?
 - [Gamma](https://gamma.app/#recent)
